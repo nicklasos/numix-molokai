@@ -1,4 +1,5 @@
 numix-molokai
 =============
 
-Adaped molokai theme for ubutnu numix
+Adaped molokai theme for GTK3 numix
+[Numix theme](http://satya164.deviantart.com/art/Numix-GTK3-theme-360223962)
